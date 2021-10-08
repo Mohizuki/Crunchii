@@ -6,6 +6,7 @@
  * 
  *
  * Theme Name: SRPACDY
+ * i do not own this, i took this script (said crunchii)
  */
 
 .bgindex, .bgwithout {
@@ -59,7 +60,6 @@
 	text-shadow: 1px 1px 10px rgba(0,0,0,0.99);
 }
 
-/* Main Items */
 .bg-left a{
 	background: url(../images/background/05.jpg) no-repeat center center;
 	background-size: 100%;
@@ -71,17 +71,6 @@
 	margin: 0 0 30px;
 }
 	
-/* ===================================
-
-	Supersized - Fullscreen Slideshow jQuery Plugin
-	Version : 3.2.7
-	Site	: www.buildinternet.com/project/supersized
-	
-	Author	: Sam Dunn
-	Company : One Mighty Roar (www.onemightyroar.com)
-	License : MIT License / GPL License
-	
-*/
 
 * { margin:0; padding:0; }
 
@@ -94,9 +83,7 @@
 #supersized li.prevslide { z-index:-20; }
 #supersized li.activeslide { z-index:-10; }
 #supersized li.prevslide img, #supersized li.activeslide img{ display:inline;}
-/* =================================== */
 
-/* ============ panel ================ */
 #buy {
 	top: 35px;
 }
@@ -210,5 +197,3 @@ hr {
 
 .trs{height:30px; width:60px; float:left;}
 .tr{background: url(../images/background/03.jpg) no-repeat center center; background-size: 75px;}
-
-/*============== panel ===============*/
